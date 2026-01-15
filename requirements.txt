@@ -11,10 +11,12 @@ matplotlib
 
 black
 
-scikit-lear
+scikit-learn
 # Pythonで利用できるデータ分析や機械学習のためのライブラリの一つ
 
 pingouin
+
+ipykernel
 
 
 # pip install -r requirements.txt
