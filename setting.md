@@ -18,3 +18,18 @@
     - Remote Explorer：vscodeを利用してssh接続を有効にするために必要
     - GitHub Actions：gitをvscode上で利用するため。
     - indent-rainbow：簡単に管理するため。
+
+- requirements.txt
+```
+numpy==2.3.3
+pandas==2.3.3
+python-dateutil==2.9.0.post0
+pytz==2025.2
+six==1.17.0
+tzdata==2025.2
+ipykernel
+matplotlib
+black
+scikit-lear
+pingouin
+```
